@@ -1,5 +1,5 @@
 {
-  "name": "randomthing",
+  "name": "randomthinger",
   "version": "2.0.0",
   "description": "A simple and versatile Node.js package for generating random numbers and arrays with additional statistical calculations.",
   "main": "index.js",
