@@ -1,0 +1,20 @@
+{
+  "name": "randomthing",
+  "version": "1.0.0",
+  "description": "A simple and versatile Node.js package for generating random numbers and arrays with additional statistical calculations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "randomthing"
+  },
+  "keywords": [
+    "random",
+    "number",
+    "array"
+  ],
+  "author": "Leovano99",
+  "license": "MIT"
+}
