@@ -16,5 +16,8 @@
     "array"
   ],
   "author": "Leovano99",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }

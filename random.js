@@ -1,3 +1,5 @@
+const _ = require('lodash');
+
 function generateRandomNumber(min, max) {
     return Math.floor(Math.random() * (max - min + 1)) + min;
 }
@@ -7,7 +9,7 @@ function generateRandomArray(length, min, max) {
     for (let i = 0; i < length; i++) {
         randomArray.push(generateRandomNumber(min, max));
     }
-    return randomArray;
+    return _.sortBy(randomArray);
 }
 
 function calculateArrayAverage(array) {
